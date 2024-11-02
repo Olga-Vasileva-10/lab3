@@ -11,7 +11,7 @@
         android:id="@+id/originalTextView"
         android:layout_width="268dp"
         android:layout_height="48dp"
-        android:text="The player will have to defeat this huge monster, but to do this, you need to prepare and recruit a team!"
+        android:text="The Player will have to defeat this huge monster, but to do this, you need to prepare and recruit a team!"
         app:layout_constraintBottom_toTopOf="@+id/textView"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.566"
