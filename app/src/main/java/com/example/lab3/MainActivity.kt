@@ -27,7 +27,7 @@ class MainActivity : AppCompatActivity() {
                 originalTextView.text = modifiedString
             } else {
                 // Опционально, можно добавить обработку ошибок
-                originalTextView.text = "Пожалуйста, введите символы для замены."
+                originalTextView.text = "Пожалуйста,введите символы для замены."
             }
         }
     }
